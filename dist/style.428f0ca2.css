@@ -14,7 +14,11 @@ img{max-width: 100%;max-height: 100%;}
  }
 
 /* style */
-body{background: #eeeeee;}
+body{background:url(mbl.2b5d40a0.jpg);
+     width: 100vw;
+     height: 100vh;
+     background-repeat: no-repeat;
+}
 .globalHeader{ 
    margin: 20px;
 }
@@ -41,7 +45,7 @@ body{background: #eeeeee;}
     margin-right: 10px;
     height: 40px;
     padding: 0 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #eeeeee;
     border-radius: 4px;
  }
  .searchForm > button{
@@ -85,7 +89,7 @@ body{background: #eeeeee;}
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background: white;
+    background: #eeeeee;
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 20px 0;
@@ -119,7 +123,7 @@ body{background: #eeeeee;}
 }
 .siteList .addButton{
     border: 1px solid #ddd;
-    background: white;
+    background: #eeeeee;
     width: 160px;
     display: flex;
     justify-content: center;
@@ -148,4 +152,4 @@ body{background: #eeeeee;}
 
 
 
-/*# sourceMappingURL=style.e80717ee.css.map */
+/*# sourceMappingURL=style.428f0ca2.css.map */
